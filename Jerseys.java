@@ -1,16 +1,18 @@
 public class Jerseys extends BasketballClothes {
   private String size;
 
+  // No argument
   public Jerseys() {
     super();
     this.size = " ";
   }
 
+  // parameterized
   public Jerseys(String brand, String size, double price) {
     super(brand, price);
     this.size = size;
   }
-
+// accessor and mutator
   public String getSize() {
     return size;
   }

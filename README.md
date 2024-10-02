@@ -13,6 +13,11 @@ Use your knowledge of object-oriented programming and class structure and design
 - **Implement accessor and mutator methods** – Write accessor and mutator methods for instance variables that should be accessible and/or modifiable from outside of the class.
 - **Implement a toString() method** – Write toString() methods in the superclass and subclasses that return information about the state of an object.
 
+## UML Diagram
+
+Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
+
+![UML Diagram for my project](nameOfImageFileHere.png)
 
 ## Description
 
