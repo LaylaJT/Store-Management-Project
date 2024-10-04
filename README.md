@@ -13,12 +13,6 @@ Use your knowledge of object-oriented programming and class structure and design
 - **Implement accessor and mutator methods** – Write accessor and mutator methods for instance variables that should be accessible and/or modifiable from outside of the class.
 - **Implement a toString() method** – Write toString() methods in the superclass and subclasses that return information about the state of an object.
 
-## UML Diagram
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
-
 ## Description
 
 - I made a store that sells basketball clothes because basketball is my favorite sport. It sells besketball jerseys and shorts. The user can chose which piece of clothing they woud like to purchase, whether it is a nike or adidas jersey or shorts. For the jerseys, there are different sizes, S for small, M for medium, L for large, XL for Extra Large. For the shorts, there are different lengths such as short and/or long. Some brands have only certain sizes so the "this" keyword is used much like return ands super(). Once you select both a jersey and shorts, they purchase them and the output says thank you and goodbye.
